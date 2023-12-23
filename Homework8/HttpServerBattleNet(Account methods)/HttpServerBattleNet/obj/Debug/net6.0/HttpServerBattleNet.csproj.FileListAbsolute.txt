@@ -1,0 +1,86 @@
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.exe
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\appsettings.json
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\404.html
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\apple-logo-black.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\eys.png
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\facebook-logo-white.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\google-logo-color.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\logo.png
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\main-logo.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\playstation-logo-white.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\steam-logo-black.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\switch-logo-white.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\images\xbox-logo-white.svg
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\index.html
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\static\styles\style.css
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.deps.json
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.runtimeconfig.json
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.pdb
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\MailKit.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\MimeKit.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\MyDatabase.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\MyDatabase.pdb
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.AssemblyReference.cache
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.AssemblyInfoInputs.cache
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.AssemblyInfo.cs
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.CoreCompileInputs.cache
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.CopyComplete
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\refint\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.pdb
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.genruntimeconfig.cache
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\obj\Debug\net6.0\ref\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\damir\Desktop\OrisLessons\HttpServerBattleNet(Post,Get,ParserSteam)\HttpServerBattleNet\bin\Debug\net6.0\Npgsql.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.exe
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\appsettings.json
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\404.html
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\apple-logo-black.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\eys.png
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\facebook-logo-white.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\google-logo-color.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\logo.png
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\main-logo.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\playstation-logo-white.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\steam-logo-black.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\switch-logo-white.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\images\xbox-logo-white.svg
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\index.html
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\static\styles\style.css
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.deps.json
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.runtimeconfig.json
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HttpServerBattleNet.pdb
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\MailKit.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\MimeKit.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\Npgsql.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.AssemblyReference.cache
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.AssemblyInfoInputs.cache
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.AssemblyInfo.cs
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.CoreCompileInputs.cache
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.csproj.CopyComplete
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\refint\HttpServerBattleNet.dll
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.pdb
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\HttpServerBattleNet.genruntimeconfig.cache
+C:\Users\damir\Desktop\Task\OrisHomeworks2023\Homework8\HttpServerBattleNet(Account methods)\HttpServerBattleNet\obj\Debug\net6.0\ref\HttpServerBattleNet.dll

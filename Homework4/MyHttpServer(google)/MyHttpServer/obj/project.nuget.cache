@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTq6U0zYyZKwGdfZB7RVTZ+llu2eVwuP/vvN4K0gxb87gA78sk2bntfchkT7U0FQYcJbuh0kSAAJykcDbm/ShQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damir\\Desktop\\OrisLessons\\MyHttpServer(google)\\MyHttpServer\\MyHttpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
