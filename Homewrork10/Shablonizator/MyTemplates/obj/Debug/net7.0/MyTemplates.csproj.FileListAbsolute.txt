@@ -1,0 +1,11 @@
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\bin\Debug\net7.0\MyTemplates.deps.json
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\bin\Debug\net7.0\MyTemplates.dll
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\bin\Debug\net7.0\MyTemplates.pdb
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.AssemblyInfoInputs.cache
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.AssemblyInfo.cs
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.csproj.CoreCompileInputs.cache
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.dll
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\refint\MyTemplates.dll
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\MyTemplates.pdb
+C:\Users\damir\Desktop\OrisLessons\Shablonizator\MyTemplates\obj\Debug\net7.0\ref\MyTemplates.dll

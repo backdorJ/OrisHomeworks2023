@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyProgram/1.0.0": {
+        "dependencies": {
+          "MyTemplates": "1.0.0"
+        },
+        "runtime": {
+          "MyProgram.dll": {}
+        }
+      },
+      "MyTemplates/1.0.0": {
+        "runtime": {
+          "MyTemplates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyTemplates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
